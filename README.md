@@ -1,9 +1,10 @@
 
 # Machine Perception and Cognitive Robotics Lab Hackathon
+## Theme: Unconventional and Natural Computing
 
 <img src="https://raw.githubusercontent.com/mpcrlab/sandbox-hackathon/main/naturalcomp.webp" width = 400>
 
-## Theme: Unconventional and Natural Computing
+
 
 ### Overview
 
